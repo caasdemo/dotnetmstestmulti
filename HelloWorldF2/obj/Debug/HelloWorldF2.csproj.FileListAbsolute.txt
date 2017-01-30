@@ -1,0 +1,5 @@
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldF2\bin\Debug\HelloWorldF2.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldF2\bin\Debug\HelloWorldF2.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldF2\obj\Debug\HelloWorldF2.csprojResolveAssemblyReference.cache
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldF2\obj\Debug\HelloWorldF2.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldF2\obj\Debug\HelloWorldF2.pdb

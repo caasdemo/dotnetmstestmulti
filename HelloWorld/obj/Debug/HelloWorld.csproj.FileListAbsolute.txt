@@ -1,0 +1,7 @@
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\bin\Debug\Newtonsoft.Json.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\bin\Debug\Newtonsoft.Json.xml
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,8 @@
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.pdb

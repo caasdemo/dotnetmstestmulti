@@ -1,0 +1,10 @@
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\HelloWorldNUnitTest.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\HelloWorldNUnitTest.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\HelloWorld.exe
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\nunit.framework.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\HelloWorld.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\bin\Debug\nunit.framework.xml
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\obj\Debug\HelloWorldNUnitTest.csprojResolveAssemblyReference.cache
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\obj\Debug\HelloWorldNUnitTest.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldNUnitTest\obj\Debug\HelloWorldNUnitTest.pdb

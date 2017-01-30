@@ -1,0 +1,6 @@
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\bin\Debug\HelloWorldMSTestUnitTest2.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\bin\Debug\HelloWorldMSTestUnitTest2.pdb
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\obj\Debug\HelloWorldMSTestUnitTest2.csprojResolveAssemblyReference.cache
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\obj\Debug\HelloWorldMSTestUnitTest2.dll
+D:\JenkinBuildDotNet\HelloWorld\HelloWorldMSTestUnitTest2\obj\Debug\HelloWorldMSTestUnitTest2.pdb

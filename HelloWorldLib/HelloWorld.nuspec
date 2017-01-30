@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HelloWorldLib</id>
+    <version>1.0.0.1</version>
+    <title>HelloWorldLib</title>
+    <authors>Mahendran</authors>
+    <owners>Mahendran</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HelloWorldLib</description>
+    <releaseNotes>Jenkin HelloWorldLib Demo Project.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>HelloWorldLib Hello</tags>
+  </metadata>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.1</version>
+    <title>HelloWorld</title>
+    <authors>Mahendran</authors>
+    <owners>Mahendran</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HelloWorld</description>
+    <releaseNotes>Jenkin HelloWorld Demo Project.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>HelloWorld Hello</tags>
+  </metadata>
+</package>
